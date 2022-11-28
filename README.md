@@ -1,3 +1,8 @@
+---
+layout: default
+title: ccf conference
+---
+
 [Conference Deadline](./_posts/deadlines.md)
 
 ## Welcome to GitHub Pages
