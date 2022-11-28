@@ -3,7 +3,8 @@ layout: default
 title: ccf conference
 ---
 
-[Conference Deadline](./_posts/deadlines.md)
+
+[Conference Deadline]({{ site.baseurl }}{% link _posts/deadlines.md %})
 
 ## Welcome to GitHub Pages
 
