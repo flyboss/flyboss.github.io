@@ -1,4 +1,4 @@
-[Conference Deadline](./deadlines.md)
+[Conference Deadline](./_posts/deadlines.md)
 
 ## Welcome to GitHub Pages
 
