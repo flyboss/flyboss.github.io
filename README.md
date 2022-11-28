@@ -4,7 +4,7 @@ title: ccf conference
 ---
 
 
-[Conference Deadline]({{ site.baseurl }}{% link ./_posts/deadlines.md %})
+[Conference Deadline]({% link ./_posts/deadlines.md %})
 
 ## Welcome to GitHub Pages
 
