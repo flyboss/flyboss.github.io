@@ -1,7 +1,3 @@
----
-layout: default
-title: ccf conference
----
 
 ## Welcome to GitHub Pages
 
