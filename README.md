@@ -50,6 +50,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 | ~~S&P([2023](https://www.ieee-security.org/TC/SP2023/cfpapers.html)) expired~~ | - | - | 4.1 | - | 5.9 | 6.7-6.21 | 6.24 |
 | ~~CCS([2022](https://www.sigsac.org/ccs/CCS2022/call-for/call-for-papers.html)) expired~~ | - | - | 5.2 | - | - | 6.19-7.7 | 7.15 |
 | ASE([2023](https://conf.researchr.org/home/ase-2023)) | 4.28 | - | 5.5 | - | - | - | 7.17 | 
+| ~~INFOCOM([2023](https://infocom2023.ieee-infocom.org/authors/call-papers-main-conference))~~ | 7.25 | - | 8.1 | - | - | - | 12.2 | 
 | ICSE([2024](https://conf.researchr.org/home/icse-2024)) second | - | - | 8.1 | - | - |  | 10.10 | 
 | ~~AAAI([2023](https://aaai.org/Conferences/AAAI-23/)) expired~~ |  |  | 9.27 |  | | 10.20-10.24 | 11.18 | 
 
