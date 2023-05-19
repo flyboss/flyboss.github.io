@@ -50,10 +50,10 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 | ~~S&P([2023](https://www.ieee-security.org/TC/SP2023/cfpapers.html)) expired~~ | - | - | 4.1 | - | 5.9 | 6.7-6.21 | 6.24 |
 | CCS([2022](https://cispa.saarland/group/cremers/events/CCS2023/))  | - | - | 5.4 | - | - | 6.19-7.7 | 7.15 |
 | ASE([2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers)) | 4.28 | - | 5.5 | - | - | - | 7.17 | 10 body + 2 ref |
+| Security([2024](https://www.usenix.org/conference/usenixsecurity24/call-for-papers)) | - | - | 6.6 | - | 7.13 | - | 9.1 | 13 body + any ref/appendices |
+| NDSS([2024](https://www.ndss-symposium.org/ndss2024/submissions/call-for-papers/)) | - | - | 6.28 | - | 8.4 | 9.4-9.6 | 9.13 | 13 body + any ref/appendices | 
 | ~~INFOCOM([2023](https://infocom2023.ieee-infocom.org/authors/call-papers-main-conference))~~ | 7.25 | - | 8.1 | - | - | - | 12.2 | 
 | ICSE([2024](https://conf.researchr.org/home/icse-2024)) second | - | - | 8.1 | - | - |  | 10.10 | 10 body + 2 ref |
 | ~~AAAI([2023](https://aaai.org/Conferences/AAAI-23/)) expired~~ |  |  | 9.27 |  | | 10.20-10.24 | 11.18 | 
-
-
 
 [ccfddl](https://ccfddl.github.io/)
