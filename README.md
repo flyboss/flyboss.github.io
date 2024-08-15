@@ -54,6 +54,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 | NDSS([2024](https://www.ndss-symposium.org/ndss2024/submissions/call-for-papers/)) | - | - | 6.28 | - | 8.4 | 9.4-9.6 | 9.13 | 13 body + any ref/appendices | 
 | ~~INFOCOM([2023](https://infocom2023.ieee-infocom.org/authors/call-papers-main-conference))~~ | 7.25 | - | 8.1 | - | - | - | 12.2 | 
 | ICSE([2024](https://conf.researchr.org/home/icse-2024)) second | - | - | 8.1 | - | - |  | 10.10 | 10 body + 2 ref |
+| FSE([2024](https://conf.researchr.org/track/fse-2024/fse-2024-research-papers)) | 9.21 | - | 9.28 | - | - | 12.11-13 | 1.23 | 10+2 |
 | ~~AAAI([2023](https://aaai.org/Conferences/AAAI-23/)) expired~~ |  |  | 9.27 |  | | 10.20-10.24 | 11.18 | 
 
 [ccfddl](https://ccfddl.github.io/)
